@@ -1,4 +1,4 @@
-🚀 # Smart Email Assistant
+🚀 **Smart Email Assistant**
 
 
 A Smart Email Assistant built using Spring Boot, Spring AI, and React,
