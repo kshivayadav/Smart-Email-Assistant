@@ -1,4 +1,4 @@
-🚀**Smart Email Assistant**
+🚀 # Smart Email Assistant
 
 
 A Smart Email Assistant built using Spring Boot, Spring AI, and React,
@@ -6,6 +6,7 @@ designed to enhance the email experience with intelligent AI-generated replies t
 It integrates seamlessly with email platforms like Gmail and Outlook to boost productivity and user interaction.
 
 🔧 **Tech Stack**
+
 Frontend: React, Material UI, Axios
 
 Backend: Java, Spring Boot, Spring AI
@@ -21,6 +22,7 @@ Browser Extension: Custom-built Chrome Extension to inject AI reply functionalit
 Other Tools: MutationObserver (for DOM manipulation and extension logic)
 
 ✨ **Key Features**
+
 ✉️ AI-Generated Email Replies
 Generate context-aware replies to incoming emails using Google Gemini LLM.
 
@@ -39,6 +41,7 @@ Email content dynamically parsed and analyzed to generate real-time smart replie
 
 
 🛠️ **Future Enhancements**
+
 📆 Calendar integration for meeting suggestions
 
 🔊 Voice-to-email input
@@ -49,6 +52,7 @@ Email content dynamically parsed and analyzed to generate real-time smart replie
 
 
 💡 **How to Use**
+
 Clone the repo and run the Spring Boot backend.
 
 Launch the React frontend.
